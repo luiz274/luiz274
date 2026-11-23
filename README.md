@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:C9A227&height=220&section=header&text=Luiz%20Felipe%20Nogueira&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Web%20Development&descSize=18&descAlignY=58&animation=fadeIn" alt="Luiz Felipe Nogueira - Desenvolvimento de Software | Web Development" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A66C2,100:0EA5A4&height=220&section=header&text=Luiz%20Felipe%20Nogueira&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Desenvolvimento%20de%20Software%20%7C%20Web%20Development&descSize=18&descAlignY=58&animation=fadeIn" alt="Luiz Felipe Nogueira - Desenvolvimento de Software | Web Development" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=C9A227&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Software;Construindo+bases+s%C3%B3lidas+em+Web+Development;Aprendendo+na+pr%C3%A1tica%2C+um+projeto+por+vez" alt="Frases animadas" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Estudante+de+Desenvolvimento+de+Software;Construindo+bases+s%C3%B3lidas+em+Web+Development;Aprendendo+na+pr%C3%A1tica%2C+um+projeto+por+vez" alt="Frases animadas" />
 
 </div>
 
@@ -45,6 +45,6 @@ Meu objetivo é crescer com consistência: estudar, construir projetos e evoluir
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:C9A227&height=100&section=footer" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A66C2,100:0EA5A4&height=100&section=footer" alt="" />
 
 </div>
