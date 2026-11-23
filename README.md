@@ -1,26 +1,30 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F3FBF:0D1117,100&height=200&section=header&text=Olá,%20sou%20o%20Luiz!&fontSize=38&fontColor=ffffff" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:30363D&height=140&text=Luiz%20Felipe%20Nogueira&fontSize=36&fontColor=ffffff&fontAlignY=40&desc=Desenvolvimento%20de%20Software%20%7C%20Web%20Development&descSize=16&descAlignY=65" alt="Luiz Felipe Nogueira - Desenvolvimento de Software | Web Development" />
 
-### ✈️ Desenvolvedor em Formação | Embraer S.A.
+## Sobre
 
-Boas-vindas ao meu perfil! Sou estudante de **Desenvolvimento de Software**, combinando o aprendizado prático em programação com a cultura de inovação da indústria aeroespacial.
-
----
-
-📌 **Sobre Mim:**
-- 🎓 Cursando o 1º semestre de **Desenvolvimento de Software**.
-- 💼 Atuando na **Embraer S.A.**, aplicando disciplina, processos e visão analítica no aprendizado diário.
-- 💻 Desenvolvendo projetos base e consolidando conhecimentos em **Web Development**.
-- 🎯 Focado em construir bases sólidas em **Lógica de Programação**, **Controle de Versão (Git/GitHub)** e **Resolução de Problemas**.
-
-🛠️ **Tecnologias & Ferramentas:**
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+Estudante de **Desenvolvimento de Software** e profissional da **Embraer S.A.**, unindo o aprendizado prático em programação à cultura de processos, disciplina e inovação da indústria aeroespacial.
 
 ---
 
-📬 **Conecte-se comigo:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-felipe-nogueira-bb2430270)
+## Foco atual
+
+- **Formação:** 1º semestre de Desenvolvimento de Software
+- **Prática:** desenvolvimento de projetos e consolidação de conhecimentos em Web Development
+- **Fundamentos:** Lógica de Programação, Controle de Versão (Git/GitHub) e Resolução de Problemas
+
+---
+
+## Tecnologias e Ferramentas
+
+![HTML5](https://img.shields.io/badge/HTML5-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0D1117?style=flat-square&logo=visual-studio-code&logoColor=007ACC)
+
+---
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=flat-square&logo=linkedin&logoColor=0A66C2)](https://www.linkedin.com/in/luiz-felipe-nogueira-bb2430270)
